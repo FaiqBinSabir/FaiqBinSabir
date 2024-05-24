@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FAIQ BIN SABIR</h1>
-<h3 align="center">A passionate frontend developer and mobile app developer from PAKISTAN</h3>
+<h3 align="center">A passionate Software Engineer from PAKISTAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiqbinsabir&label=Profile%20views&color=0e75b6&style=flat" alt="faiqbinsabir" /> </p>
 
